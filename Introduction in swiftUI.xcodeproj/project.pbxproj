@@ -11,6 +11,7 @@
 		C517BB192682C3510078656C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C517BB182682C3510078656C /* ContentView.swift */; };
 		C517BB1B2682C35B0078656C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C517BB1A2682C35B0078656C /* Assets.xcassets */; };
 		C517BB1E2682C35B0078656C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C517BB1D2682C35B0078656C /* Preview Assets.xcassets */; };
+		C517BB272682CF980078656C /* InfoSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = C517BB262682CF980078656C /* InfoSheet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		C517BB1A2682C35B0078656C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C517BB1D2682C35B0078656C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C517BB1F2682C35B0078656C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C517BB262682CF980078656C /* InfoSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoSheet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				C517BB162682C3510078656C /* Introduction_in_swiftUIApp.swift */,
 				C517BB182682C3510078656C /* ContentView.swift */,
+				C517BB262682CF980078656C /* InfoSheet.swift */,
 				C517BB1A2682C35B0078656C /* Assets.xcassets */,
 				C517BB1F2682C35B0078656C /* Info.plist */,
 				C517BB1C2682C35B0078656C /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				C517BB192682C3510078656C /* ContentView.swift in Sources */,
 				C517BB172682C3510078656C /* Introduction_in_swiftUIApp.swift in Sources */,
+				C517BB272682CF980078656C /* InfoSheet.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
